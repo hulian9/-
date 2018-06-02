@@ -1,0 +1,107 @@
+Dependencies for Project 'project', Target 'Target': (DO NOT MODIFY !)
+F (..\SYSTEM\delay\delay.c)(0x555AC5E1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x555AC61F)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+F (..\SYSTEM\sys\sys.c)(0x550EB960)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+F (..\SYSTEM\usart\usart.c)(0x550EB9F1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (..\SYSTEM\usart\usart.h)(0x550EB9F1)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+F (.\main.c)(0x5B1212D7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\delay\delay.h)(0x555AC61F)
+I (..\SYSTEM\usart\usart.h)(0x550EB9F1)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\HARDWARE\REMOTE\remote.h)(0x54B7CBFF)
+I (..\HARDWARE\LCD\lcd.h)(0x553B4B7A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\RECEIVE\receive.h)(0x5B120E5E)
+I (..\MODULATE\modulate.h)(0x5B114151)
+I (..\HARDWARE\LED\led.h)(0x54B135E7)
+I (..\HARDWARE\TIMER\timer.h)(0x54B740F3)
+F (..\DECODE\README.txt)(0x5B10B5EE)()
+F (..\LAUNCH\README.txt)(0x5B10B6D4)()
+F (..\RECEIVE\README.txt)(0x5B10B6AA)()
+F (..\RECEIVE\receive.c)(0x5B121602)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\receive.o --omf_browse .\objects\receive.crf --depend .\objects\receive.d)
+I (..\RECEIVE\receive.h)(0x5B120E5E)
+I (..\HARDWARE\REMOTE\remote.h)(0x54B7CBFF)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\LCD\lcd.h)(0x553B4B7A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+F (..\MODULATE\README.txt)(0x5B1121D1)()
+F (..\MODULATE\modulate.c)(0x5B120C1B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\modulate.o --omf_browse .\objects\modulate.crf --depend .\objects\modulate.d)
+I (..\MODULATE\modulate.h)(0x5B114151)
+I (..\HARDWARE\LED\led.h)(0x54B135E7)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\TIMER\timer.h)(0x54B740F3)
+F (..\HARDWARE\LED\led.c)(0x54B135F0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (..\HARDWARE\LED\led.h)(0x54B135E7)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+F (..\HARDWARE\KEY\key.c)(0x54B135F9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\key.o --omf_browse .\objects\key.crf --depend .\objects\key.d)
+I (..\HARDWARE\KEY\key.h)(0x54B135FE)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\delay\delay.h)(0x555AC61F)
+F (..\HARDWARE\TIMER\timer.c)(0x54B740F3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\timer_1.o --omf_browse .\objects\timer_1.crf --depend .\objects\timer_1.d)
+I (..\HARDWARE\TIMER\timer.h)(0x54B740F3)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\HARDWARE\LED\led.h)(0x54B135E7)
+F (..\HARDWARE\REMOTE\remote.c)(0x54B7CCCE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\remote.o --omf_browse .\objects\remote.crf --depend .\objects\remote.d)
+I (..\HARDWARE\REMOTE\remote.h)(0x54B7CBFF)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\delay\delay.h)(0x555AC61F)
+I (..\SYSTEM\usart\usart.h)(0x550EB9F1)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+F (..\HARDWARE\LCD\ILI93xx.c)(0x553B4B6A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\DECODE -I..\LAUNCH -I..\RECEIVE -I..\MODULATE -I..\DRIVER -I..\HARDWARE\KEY -I..\HARDWARE\LED -I..\HARDWARE\TIMER -I..\HARDWARE\REMOTE -I..\HARDWARE\LCD-I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\ili93xx.o --omf_browse .\objects\ili93xx.crf --depend .\objects\ili93xx.d)
+I (..\HARDWARE\LCD\lcd.h)(0x553B4B7A)
+I (..\SYSTEM\sys\sys.h)(0x550EC367)
+I (..\SYSTEM\sys\stm32f10x.h)(0x4F1E2E3C)
+I (..\SYSTEM\sys\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (..\SYSTEM\sys\system_stm32f10x.h)(0x4F1E2E3C)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5475F300)
+I (..\HARDWARE\LCD\font.h)(0x547B07F5)
+I (..\SYSTEM\usart\usart.h)(0x550EB9F1)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+I (..\SYSTEM\delay\delay.h)(0x555AC61F)
+F (..\DRIVER\startup_stm32f10x_hd.s)(0x54B0B2EE)(--cpu Cortex-M3 -g --apcs=interwork -I E:\嵌入式\嵌入式课程实验\USER\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0-I D:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)

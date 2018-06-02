@@ -1,0 +1,10 @@
+.\objects\receive.o: ..\RECEIVE\receive.c
+.\objects\receive.o: ..\RECEIVE\receive.h
+.\objects\receive.o: ..\HARDWARE\REMOTE\remote.h
+.\objects\receive.o: ..\SYSTEM\sys\sys.h
+.\objects\receive.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\receive.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\receive.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\receive.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\receive.o: ..\HARDWARE\LCD\lcd.h
+.\objects\receive.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

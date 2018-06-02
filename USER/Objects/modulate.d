@@ -1,0 +1,9 @@
+.\objects\modulate.o: ..\MODULATE\modulate.c
+.\objects\modulate.o: ..\MODULATE\modulate.h
+.\objects\modulate.o: ..\HARDWARE\LED\led.h
+.\objects\modulate.o: ..\SYSTEM\sys\sys.h
+.\objects\modulate.o: ..\SYSTEM\sys\stm32f10x.h
+.\objects\modulate.o: ..\SYSTEM\sys\core_cm3.h
+.\objects\modulate.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\modulate.o: ..\SYSTEM\sys\system_stm32f10x.h
+.\objects\modulate.o: ..\HARDWARE\TIMER\timer.h
